@@ -1,5 +1,6 @@
 body{
 	background-color: white;
+	margin: 10px;
 }
 
 h1{
@@ -44,6 +45,13 @@ h1{
 	/*background-color: #CCCCFF;
 	border-bottom: solid;
 	border-color: #7A7A99;*/
+}
+
+.subpage {
+	top: 100px;
+	left: 100px;
+	color: red;
+	position: fixed;
 }
 
 /*#menubar li:hover{
