@@ -17,11 +17,11 @@ h1{
 }
 
 #mainimage img{
-	height: 200px;
+	height: 400px;
 	width: auto;
 }
 
 #menubar li:hover{
 	background-color: #E4E4EB;
-	color: white;
+	color: red;
 }
